@@ -1,0 +1,28 @@
+.newsfeed {
+  
+  color: white;
+  flex: 0.7 1;
+  text-align: center;
+}
+.newsfeed_portfolio{
+  text-align: left;
+}
+.newsfeed__butying_section{
+display: flex;
+justify-content: space-between;
+padding: 20px  10px ;
+border-bottom: 1px solid  #3b4754;
+margin-bottom: 60px;
+}
+
+.newsfeed__market__section{
+text-align: left;
+}
+.newsfeed__market__box{
+  height:10vh;
+  padding:20px;
+  border:1px solid #3b4754;
+}
+.newsfeed__market__box{
+  color:#7B858A;
+}
