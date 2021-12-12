@@ -23,6 +23,30 @@ text-align: left;
   padding:20px;
   border:1px solid #3b4754;
 }
-.newsfeed__market__box{
+.newsfeed__market__box p{
   color:#7B858A;
+  font-size:15px;
+  text-transform: uppercase;
+  font-weight: 700;
+  margin-bottom: 8px;
+}
+.newsfeed__popularlists__section{
+  margin-top:60px;
+}
+.newsfeed__popularlists__intro{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding:20px 0 20px 0px;
+  
+}
+.newsfeed__popularlists__intro p{
+  cursor: pointer;
+  border: 1px solid white;
+  padding: 5px;
+  border-radius: 20px;
+}
+.newsfeed_popularlists_badges{
+  display: flex;
+  flex-wrap: wrap;
 }

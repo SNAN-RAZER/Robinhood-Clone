@@ -44,7 +44,7 @@ const [StockData, setStockData] = useState([]);
             Promise.all(promises).then(()=>{
                
               setMyStocks(tempData);
-              console.log(myStocks)
+              
             })
         })
       }
